@@ -1,7 +1,8 @@
 title: Longxiang's Blog Website
-author: Longxiang Zhang
-email: lz2869@columbia.edu
-description: To be completed.
+author: 
+  name: Longxiang Zhang
+  email: lz2869@columbia.edu
+  LinkedIn: https://www.linkedin.com/in/longxiangzhang/
 
 
 theme: minima
