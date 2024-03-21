@@ -59,11 +59,11 @@ The spot difference is when the source code translated (converting source code i
 
 Here are a few examples to show the difference between statically typing and dynamically typing:
 
-![difference between statically typing and dynamically typing 1](/docs/assets/images/image1.png)
+![difference between statically typing and dynamically typing 1](/PersonalBlog/docs/assets/images/image1.png)
 
-![difference between statically typing and dynamically typing 2](/docs/assets/images/image2.png)
+![difference between statically typing and dynamically typing 2](/PersonalBlog/docs/assets/images/image2.png)
 
-![difference between statically typing and dynamically typing 3](/docs/assets/images/image1.png)
+![difference between statically typing and dynamically typing 3](/PersonalBlog/docs/assets/images/image1.png)
 
 ### 2.3 Function overloading
 
