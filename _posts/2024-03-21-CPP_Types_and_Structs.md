@@ -59,11 +59,11 @@ The spot difference is when the source code translated (converting source code i
 
 Here are a few examples to show the difference between statically typing and dynamically typing:
 
-![image-1](../docs/assets/images/image1.png)
+![image-1](PersonalBlog/docs/assets/images/image1.png)
 
-![image2](../docs/assets/images/image2.png)
+![image2](PersonalBlog/docs/assets/images/image2.png)
 
-![image3](../docs/assets/images/image1.png)
+![image3](PersonalBlog/docs/assets/images/image1.png)
 
 ### 2.3 Function overloading
 
