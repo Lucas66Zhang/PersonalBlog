@@ -59,11 +59,11 @@ The spot difference is when the source code translated (converting source code i
 
 Here are a few examples to show the difference between statically typing and dynamically typing:
 
-![image-1](2024-03-21-CPP_Types_and_Structs.assets/image1.png)
+![image-1](../docs/assets/cpp1/images/image1.png)
 
-![image2](2024-03-21-CPP_Types_and_Structs.assets/image2.png)
+![image2](../docs/assets/cpp1/images/image2.png)
 
-![image3](2024-03-21-CPP_Types_and_Structs.assets/image3.png)
+![image3](../docs/assets/cpp1/images/image1.png)
 
 ### 2.3 Function overloading
 
