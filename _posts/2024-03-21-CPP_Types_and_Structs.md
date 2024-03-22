@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CPP Course 1: Types & Structs"
 date: 2024-03-21
 categories: CPP
@@ -154,7 +153,7 @@ cout << foundStudent.name << endl; // Haven
 The above syntax is little clunky to initialize. Let’s abbreviate.
 
 ```cpp
- Student s; 
+Student s; 
 s.name = "Haven";  
 s.state = "AR"; 
 s.age = 22;  
