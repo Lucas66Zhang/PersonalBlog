@@ -1,6 +1,11 @@
 ---
+layout: post
 title: "CPP Course 1: Types & Structs"
 date: 2024-03-21
+categories: CPP
+image1: /assets/images/cpp/image1.png
+image2: /assets/images/cpp/image2.png
+image3: /assets/images/cpp/image3.png
 ---
 
 ## 1. C++ Basic
@@ -59,11 +64,11 @@ The spot difference is when the source code translated (converting source code i
 
 Here are a few examples to show the difference between statically typing and dynamically typing:
 
-![difference between statically typing and dynamically typing 1](/assets/images/image1.png)
+![difference between statically typing and dynamically typing 1]({{ page.image1 | relative_url }})
 
-![difference between statically typing and dynamically typing 2](/assets/images/image2.png)
+![difference between statically typing and dynamically typing 2]({{ page.image2 | relative_url }})
 
-![difference between statically typing and dynamically typing 3](/assets/images/image1.png)
+![difference between statically typing and dynamically typing 3]({{ page.image3 | relative_url }})
 
 ### 2.3 Function overloading
 
