@@ -4,12 +4,3 @@ email: lz2869@columbia.edu
 description: From Curiosity to Clarity
 
 theme: minima
-
-permalink: /:categories/:title/
-
-navbar-links:
-  Homepage: "https://lucas66zhang.github.io/PersonalBlog/"
-  Categories: "https://lucas66zhang.github.io/PersonalBlog/categories/"
-  Tags: "https://lucas66zhang.github.io/PersonalBlog/tags/"
-  About me: "aboutme"
-  Search: "search"
