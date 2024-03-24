@@ -236,7 +236,7 @@ int main() {
 ```
 
 This will cause an error:
-![error caused by passing in r-vlaue by reference](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/cpp/rvlaue.png?raw=true)
+![error caused by passing in r-vlaue by reference](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/cpp/rvalue.png?raw=true)
 
 - r-values are temporary, so we can not pass in an r-vlaue by reference.
 
