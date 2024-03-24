@@ -1,7 +1,8 @@
 ---
 title: "CPP Course 1: Types & Structs"
 date: 2024-03-21
-categories: CPP
+category: CPP
+lesson: 1
 ---
 
 ## 1. C++ Basic
