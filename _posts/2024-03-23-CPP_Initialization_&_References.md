@@ -2,7 +2,6 @@
 title: "CPP Course 2: Initialization & References"
 date: 2024-03-23
 categories: CPP
-Lesson: 2
 ---
 
 ## 1. Initialization
