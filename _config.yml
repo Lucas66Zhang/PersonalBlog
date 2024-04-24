@@ -3,9 +3,7 @@ author: Longxiang Zhang
 email: lz2869@columbia.edu
 description: From Curiosity to Clarity
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
 kramdown:
   math_engine: null
 
