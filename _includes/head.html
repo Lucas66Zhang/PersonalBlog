@@ -10,8 +10,9 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
-  {% unless page.no_latex %}
-    {% include latex.html %}
-  {% endunless %}
+
+  {% if page.use_math %}
+    {% include mathjax_support %}
+  {% endif %}
 
 </head>
