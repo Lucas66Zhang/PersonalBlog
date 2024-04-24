@@ -4,3 +4,7 @@ email: lz2869@columbia.edu
 description: From Curiosity to Clarity
 
 theme: minima
+kramdown:
+  math_engine: null
+
+

@@ -10,7 +10,7 @@ categories: Deep_Learning_System
 
 线性可分假设认为，样本的分类边界应当是若干条直线，这意味着，我们可以使用线性函数（样本空间中的若干超平面）来将不同种类的样本区分开来。如下图
 
-![线性可分情况](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/DLS/linear_classifier.png)
+![线性可分情况](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/DLS/linear_classifier.png?raw=true)
 
 在这种情况下，我们只使用若干线性映射，就可以将样本合理的进行分类：
 $$
@@ -18,7 +18,7 @@ h_\theta(x) = \theta^Tx,\quad \theta\in\mathbb{R}^{n\times k}
 $$
 但是，当样本不满足线性分类假设时，上述线性映射就无法起效，如下图
 
-![非线性可分情况](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/DLS/unlinearity.png)
+![非线性可分情况](https://github.com/Lucas66Zhang/PersonalBlog/blob/main/assets/images/DLS/unlinearity.png?raw=true)
 
 > 常见的方法：样本在当前空间线性不可分，我们就寻找一个高维空间，使得样本在高维空间可分。简单地说就是寻找将样本特征维度提升的方法，使升维后的样本特征向量线性可分。
 > $$
